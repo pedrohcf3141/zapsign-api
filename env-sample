@@ -1,0 +1,10 @@
+DEBUG=True
+SECRET_KEY=your-secret-key
+POSTGRES_USER=test
+POSTGRES_PASSWORD=test
+POSTGRES_DB=test
+POSTGRES_PORT=5432
+POSTGRES_HOST=db
+ALLOWED_HOSTS=localhost,127.0.0.1,0.0.0.0,http://localhost:4200
+ZAPSIGN_API_URL=https://api.zapsign.com.br
+ZAPSIGN_API_KEY=gere uma chave 
