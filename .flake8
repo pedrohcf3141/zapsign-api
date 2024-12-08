@@ -1,0 +1,3 @@
+[flake8]
+max-line-length = 100
+# https://peps.python.org/pep-0008/#maximum-line-length
